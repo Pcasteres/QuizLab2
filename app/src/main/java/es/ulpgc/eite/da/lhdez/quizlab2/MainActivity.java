@@ -108,6 +108,7 @@ public class MainActivity extends AppCompatActivity {
   }
 
   public void nextButtonCliecked(View view) {
+  //Hacer el siguiente pantalla para la semana que viene
 
   }
 }
